@@ -1,1 +1,8 @@
-Mozharness and writing your first script
+# Mozharness
+<div class="center" markdown="1">
+    ![intro](images/moz_dino_harness.jpg)
+</div>
+<div class="center" markdown="1">
+... and writing your first script
+</div>
+
