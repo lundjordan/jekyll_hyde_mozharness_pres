@@ -1,0 +1,7 @@
+# BaseScript all the things...
+
+inherit it:
+
+    > from mozharness.base.script import BaseScript
+    > class MyNeatoScript(BaseScript)
+

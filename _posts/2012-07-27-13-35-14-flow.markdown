@@ -1,0 +1,6 @@
+## Logs. Config. Action(s)!
+
+<div class="center" markdown="1">
+
+    ![flow](images/lights_camera_action.png)
+</div>

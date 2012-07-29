@@ -1,0 +1,17 @@
+## class LogMixin()
+
+what you get:
+
+    > self.info('copied A to B')
+    > self.warning('fasten seatbelts, this could get bumpy')
+    > self.fatal('I fell on my face and won't be getting back up')
+
+what this looks like:
+
+    08:49:48  INFO - Running pre test command run mouse & screen adjustment
+    08:50:03  WARNING - The reftest suite: crashtest ran with return status: WARNING
+    08:50:03  FATAL - The reftest suite: crashtest ran with return status: WARNING
+
+
+
+
