@@ -3,4 +3,4 @@
 1. ShellMixin -> <em>mozharness/base/script</em>
 2. OSMixin -> <em>mozharness/base/script</em>
 3. BuildbotMixin -> <em>mozharness/mozilla/buildbot</em>
-4. BaseScript
+4. VirtualEnvMixin -> <em>mozharness/base/python</em>

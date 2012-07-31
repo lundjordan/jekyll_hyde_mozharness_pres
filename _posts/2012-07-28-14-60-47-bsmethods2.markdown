@@ -1,16 +1,17 @@
-# class Buildbot()
+# BuildbotMixin()
 
-## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L324">def read_buildbot_config()</a>
+## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/mozilla/buildbot.py#L39">def read_buildbot_config()</a>
 
-## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L324">def buildbot_status()</a>
+# VirtualEnvMixin()
 
+## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/python.py#L180">def create_virtualenv()</a>
 
-# class BaseScript()
+# BaseScript()
 
-## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L324">def query_abs_dirs()</a>
+## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L624">def query_abs_dirs()</a>
 
-## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L324">def clobber()</a>
+## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L617">def clobber()</a>
 
-## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L324">def add_summary()</a>
+## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L686">def add_summary()</a>
 
-## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L324">def run()</a>
+##### stop here

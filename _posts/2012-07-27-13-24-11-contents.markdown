@@ -1,5 +1,5 @@
 # Breaking It Down
 
 1. Guts
-2. Accessories
+2. Arsenal
 3. Example

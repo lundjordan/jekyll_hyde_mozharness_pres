@@ -2,7 +2,7 @@
 
 what you get:
 
-    > self.info('copied A to B')
+    > self.info('copied file A to B')
     > self.warning('fasten seatbelts, this could get bumpy')
     > self.fatal('I fell on my face and won't be getting back up')
 

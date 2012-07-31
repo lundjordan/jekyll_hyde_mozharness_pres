@@ -1,6 +1,6 @@
 # self.config
 
-mozharness consolidates all configs into one dict
+Mozharness consolidates all configs into one dict
 
 Where can we define our configs?
 
