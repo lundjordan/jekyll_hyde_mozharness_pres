@@ -1,11 +1,11 @@
-# class ShellMixin()
+# ShellMixin()
 
 ## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L324">def query_exe()</a>
 
 ## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L356">def run_command()</a>
 
 
-# class OSMixin()
+# OSMixin()
 
 ## <a href="https://github.com/escapewindow/mozharness/blob/master/mozharness/base/script.py#L58">def rmtree()</a>
 
