@@ -1,0 +1,16 @@
+# - -help
+
+first we need to add to our option parser
+
+        > BaseScript.__init__(self,
+        >      ...
+        >      config_options = [
+        >          [['--mochitest-suite',], {
+        >                 "action" : "append",
+        >                 "dest" : "specified_mochitest_suites",
+        >                 "type": "string",
+        >                 "help": """Specify which mochi suite to run.
+        >              }
+        >          ],
+        >       ],
+        >      ...

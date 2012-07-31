@@ -1,6 +1,5 @@
 # Breaking It Down
 
 1. Guts
-2. Flow
-3. Accessories
-4. Example
+2. Accessories
+3. Example

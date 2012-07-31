@@ -1,0 +1,6 @@
+## !Squirell: Questions?
+
+<div class="center" markdown="1">
+    ![squirrel](images/squirrel.jpg)
+</div>
+

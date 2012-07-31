@@ -1,0 +1,13 @@
+# give your script reason to live!
+
+        > BaseScript.__init__(self,
+        >       ...
+        >       all_actions=[
+        >            'clobber',
+        >            'pull',
+        >            'create-virtualenv',
+        >            'install',
+        >            'run',
+        >            ],
+        >          ...
+        >          ),

@@ -1,0 +1,10 @@
+# init really easy ?
+
+Inside your script we can:
+
+        > BaseScript.__init__(self,
+        >          ...
+        >          config={'python' : '/usr/bin/python25'
+        >                  'require_cool_feature' : True}
+        >          ...
+        >          ),

@@ -1,0 +1,5 @@
+# So far, we've talked about a few classes...
+
+1. BaseScript -> <em>mozharness/base/script</em>
+2. LogMixin -> <em>mozharness/base/log</em>
+3. BaseConfig -> <em>mozharness/base/config</em>

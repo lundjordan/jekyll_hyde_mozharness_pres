@@ -1,0 +1,9 @@
+# self.config
+
+mozharness consolidates all configs into one dict
+
+Where can we define our configs?
+
+### 1. script file
+### 2. seperate config file
+### 3. command line.

@@ -1,0 +1,12 @@
+# python dict or json?
+
+mozharness/configs/my_script_config.py:
+
+        > config = {
+        >     "app_name_dir" : "firefox,
+        >     "repos" : [{
+        >         "repo": "http://hg.mozilla.org/build/tools",
+        >         "revision": "default",
+        >         "dest": "tools"
+        >     }]
+        >  }

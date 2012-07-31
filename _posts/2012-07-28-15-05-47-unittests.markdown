@@ -1,0 +1,7 @@
+## Alright Jordan. This all sounds great but...
+
+## what have you been up to?
+
+<div class="center" markdown="1">
+    ![unittests](images/wasting_time.png)
+</div>
